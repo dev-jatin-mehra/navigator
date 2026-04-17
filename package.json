@@ -4,6 +4,10 @@
   "description": "Simple yet useful route navigation for React Applications",
   "version": "0.0.1",
   "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-jatin-mehra/navigator.git"
+  },
   "engines": {
     "vscode": "^1.116.0"
   },
